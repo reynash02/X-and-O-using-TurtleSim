@@ -1,0 +1,3 @@
+[console_scripts]
+playgame = turtlesim_x_and_o.playgame:main
+
