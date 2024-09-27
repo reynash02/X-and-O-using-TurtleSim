@@ -8,7 +8,7 @@ Terminal 1:
 ros2 run turtlesim turtlesim_node
 
 Terminal 2:
-ros2 run turtle_x_and_o playgame.py
+ros2 run turtlesim_x_and_o playgame.py
 
 
 
