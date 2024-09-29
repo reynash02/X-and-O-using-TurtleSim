@@ -14,6 +14,6 @@ ros2 run turtlesim_x_and_o playgame.py
 
 For Grid Creation and creating X and O, the SetPen and AbsoluteTeleport services are used.
 
-![Demo](/home/reynash/Downloads/Tic-Tac-Toe.gif)
+![Demo](https://github.com/reynash02/X-and-O-using-TurtleSim/blob/main/Tic-Tac-Toe.gif)
 
 [![Watch the video](https://img.youtube.com/vi/HH2FQD3czHg/maxresdefault.jpg)](https://youtu.be/HH2FQD3czHg)
