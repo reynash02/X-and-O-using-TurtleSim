@@ -16,4 +16,4 @@ For Grid Creation and creating X and O, the SetPen and AbsoluteTeleport services
 
 ![Demo](https://github.com/reynash02/X-and-O-using-TurtleSim/blob/main/Tic-Tac-Toe.gif)
 
-[![Watch the video](https://img.youtube.com/vi/HH2FQD3czHg/maxresdefault.jpg)](https://youtu.be/HH2FQD3czHg)
+[![Watch the video]](https://youtu.be/HH2FQD3czHg)
